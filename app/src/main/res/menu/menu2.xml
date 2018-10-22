@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/article"
+        android:title="文章"
+        app:showAsAction="always" />
+    <item android:title="翻译"
+        android:id="@+id/words"
+        app:showAsAction="always"
+        />
+    <item
+        android:title=""
+        android:id="@+id/null1"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title=""
+        android:id="@+id/null2"
+        app:showAsAction="always"
+        />
+    <item
+        android:title=""
+        android:id="@+id/null3"
+        app:showAsAction="always"
+        />
+</menu>
